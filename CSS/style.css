@@ -1,0 +1,39 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Playfair Display", serif;
+
+}
+
+
+/* ==================Header section============================ */
+.nav-items a, .logo{
+    text-decoration: none;
+    color: #F29F58;
+}
+
+
+.nav-items  :hover{
+    color: #0d6efd;
+}
+
+
+/* ==================Courses section============================ */
+img{
+    height: 200px;   
+}
+
+.list-group-item, .container{
+    background-color:#F8FAFC ; 
+}
+
+.list-group-item{
+    background-color:white
+     ; 
+
+}
